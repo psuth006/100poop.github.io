@@ -1,0 +1,20 @@
+{
+  "name": "colorful-poop",
+  "version": "1.0.0",
+  "description": "A website displaying the word 'poop' in 100 different languages in colorful SVG.",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server . -p 8080"
+  },
+  "keywords": [
+    "poop",
+    "svg",
+    "languages",
+    "colorful"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
